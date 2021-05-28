@@ -167,6 +167,10 @@ body {
   border-radius: 2px;
 }
 
+.current {
+  color: var(--accent-color);
+}
+
 .menu-link:hover,
 .menu-link:focus {
   color: var(--accent-color);
